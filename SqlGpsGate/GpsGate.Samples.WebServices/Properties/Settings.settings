@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GpsGate.Samples.SOAP.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="GpsGate_Samples_SOAP_TracksService_Tracks" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost/Services/Tracks.asmx</Value>
+    </Setting>
+    <Setting Name="GpsGate_Samples_SOAP_GeocoderService_Geocoder" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost/Services/Geocoder.asmx</Value>
+    </Setting>
+    <Setting Name="GpsGate_Samples_SOAP_ReportingService1_Reporting" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost/Services/Reporting.asmx</Value>
+    </Setting>
+    <Setting Name="GpsGate_Samples_SOAP_DirectoryService_Directory" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost/Services/Directory.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

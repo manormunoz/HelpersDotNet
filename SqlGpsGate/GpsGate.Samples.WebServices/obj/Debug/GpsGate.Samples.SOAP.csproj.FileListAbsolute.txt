@@ -1,0 +1,6 @@
+C:\Users\Depto Desarrollo\Downloads\SoapKit\examples\dotNET\GpsGate.Samples.WebServices\bin\Debug\GpsGate.Samples.SOAP.dll.config
+C:\Users\Depto Desarrollo\Downloads\SoapKit\examples\dotNET\GpsGate.Samples.WebServices\bin\Debug\GpsGate.Samples.SOAP.dll
+C:\Users\Depto Desarrollo\Downloads\SoapKit\examples\dotNET\GpsGate.Samples.WebServices\bin\Debug\GpsGate.Samples.SOAP.pdb
+C:\Users\Depto Desarrollo\Downloads\SoapKit\examples\dotNET\GpsGate.Samples.WebServices\obj\Debug\GpsGate.Samples.SOAP.csprojResolveAssemblyReference.cache
+C:\Users\Depto Desarrollo\Downloads\SoapKit\examples\dotNET\GpsGate.Samples.WebServices\obj\Debug\GpsGate.Samples.SOAP.dll
+C:\Users\Depto Desarrollo\Downloads\SoapKit\examples\dotNET\GpsGate.Samples.WebServices\obj\Debug\GpsGate.Samples.SOAP.pdb
